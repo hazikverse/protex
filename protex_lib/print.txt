@@ -1,3 +1,4 @@
 write("") = print("")
 variable"hey" = variable = "Hello"
 write(variable) = print(variable)
+int:19 = int = 19:
