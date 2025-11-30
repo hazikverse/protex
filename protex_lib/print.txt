@@ -1,0 +1,3 @@
+write("") = print("")
+variable"hey" = variable = "Hello"
+write(variable) = print(variable)
